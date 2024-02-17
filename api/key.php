@@ -1,2 +1,1 @@
-<?php
-$key = '1';
+<?php $key = 'dcae4a4f4df781edfb826f331fa60a5ed2562181af3d9ff331f085f78866421d';
